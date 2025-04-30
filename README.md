@@ -36,7 +36,7 @@ Input data (Sample Images) -
 ![plot](Picture1.png)
 
 # Visualization of Grad-CAM :    
-![plot](Grad-CAM_Visualizations/IEEE_Access_LaTeX_template(2).jpg) 
-![plot](Grad-CAM_Visualizations/IEEE_Access_LaTeX_template(3).jpg)
+![plot](Grad-CAM_Visualizations/IEEE_Access_LaTeX_template_2.jpg) 
+![plot](Grad-CAM_Visualizations/IEEE_Access_LaTeX_template_3.jpg)
 
 ⭐️ this Project if you liked it !
