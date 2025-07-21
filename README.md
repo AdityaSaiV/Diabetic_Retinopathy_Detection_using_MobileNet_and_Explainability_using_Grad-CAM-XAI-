@@ -19,10 +19,10 @@ tuning and extended training. Finally, this work has discovered the light-weight
 of diabetic retinopathy and Grad-CAM visualizations to ensure the interpretability and trustworthiness of
 the models.
 
-# Dataset : (Please check the 'Data.zip') - A Small Preprocessed Dataset from APTOS 2019 Blindness Dataset
+# Dataset : ('Data.zip') - A Small Preprocessed Dataset from APTOS 2019 Blindness Dataset
 
 # Solution :   
-I am proposing Hybrid Deep Learning classification technique using MobileNet combined with RNN and also with GNN.
+I am proposing Hybrid Deep Learning classification technique using MobileNet combined with RNN and GNN.
 The effectiveness of deep learning models in detecting and classifying Diabetic Retinopathy using the APTOS 2019 retinal images dataset. MobileNetV3-RNN stands out as the best-performing model, achieving the highest accuracy and precision, while MobileNet serves as a reliable baseline. Grad-CAM provides heatmaps that enhance interpretability, making these models suitable for industrial applications. These findings show the models' potential for early DR detection and classification. Future work could integrate multi-modal datasets to address data imbalance and improve model performance across diverse retinal scans. Advanced XAI techniques and collaborative AI systems can further refine decision-making, ensuring accurate and reliable DR screening in clinical settings.      
 
 # Data visualization :     
